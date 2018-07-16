@@ -1,0 +1,1 @@
+# program-kamen-nuzky-papir-python-
